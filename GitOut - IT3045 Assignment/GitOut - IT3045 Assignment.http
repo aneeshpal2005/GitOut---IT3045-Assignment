@@ -1,0 +1,6 @@
+@GitOut___IT3045_Assignment_HostAddress = http://localhost:5052
+
+GET {{GitOut___IT3045_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
