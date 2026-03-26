@@ -1,6 +1,6 @@
 namespace GitOut___IT3045_Assignment
 {
-    public class WeatherForecast
+    public class GetName
     {
         public DateOnly Date { get; set; }
 
